@@ -43,11 +43,12 @@ struct ContentView: View {
                             Image(systemName: "globe")
                                 .font(.largeTitle)
                                 .foregroundStyle(.tint)
-                             Text("some New Title!")
-            
+                            Text("some New Title!")
+                            
                             Button("Click me!") {
                                 
                             }
+                        }
                     }
                 }
             }
